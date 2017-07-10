@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SNConnection</string>
+    <string name="appIDFaceBook">143219956242127</string>
+    <string name="API_KeyTwitter">qYOFbJnqe8LQlbbmj827deRtU</string>
+    <string name="API_SecretTwitter">DnvTmH40jBQHks5qJBexWlxloEOoIxSaGeVNe0wlXpjDQ5PBOc</string>
+    <string name="Client_IDLinkedIn">86u4f7fk05kplg</string>
+    <string name="Client_SecretLinkedIn">UaUo2w8X2W3Ecl4q</string>
+</resources>
